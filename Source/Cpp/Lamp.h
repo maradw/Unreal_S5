@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
 #include "Lamp.generated.h"
-//#include "Components/PointLightComponent.h"
+
 UCLASS()
 class CPP_API ALamp : public APawn
 {

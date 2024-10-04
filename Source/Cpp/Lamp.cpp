@@ -2,7 +2,7 @@
 
 
 #include "Lamp.h"
-
+#include "Components/PointLightComponent.h"
 // Sets default values
 ALamp::ALamp()
 {
